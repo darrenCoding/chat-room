@@ -16,3 +16,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+TODO:
+1、处理离线发送消息的bug。
+2、优化性能。
+
+ps：由于后端代码尚未上传，请勿fork。
