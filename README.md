@@ -1,4 +1,4 @@
-# leju-vue
+# chat room
 
 > a simple chat based on vue2.0
 
